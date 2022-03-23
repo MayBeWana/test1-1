@@ -1,3 +1,3 @@
 print("elina");
 print("ELINA");
-print("DonGan");
+print("DoNGan");
